@@ -13,6 +13,7 @@ Lots of ugly here. It's a demo, people.
 - Needs alternative web video formats (only mp4 at present)
 - Yadda, yadda, yadda.
 
+... and I don't think GitHub likes serving up .mp4 files, so this demo needs to be downloaded, folks.
 
 ## Video specs
 
